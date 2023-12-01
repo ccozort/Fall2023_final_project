@@ -8,6 +8,7 @@ from random import randint
 WIDTH = 800
 HEIGHT = 500
 FPS = 30
+HITPOINTS = 45
 
 # player settings
 PLAYER_JUMP = 10
