@@ -16,6 +16,7 @@
 
 # import libraries and modules
 import panda3d
+import cocos
 import pygame as pg
 from pygame.sprite import Sprite
 import random
