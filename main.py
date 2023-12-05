@@ -15,6 +15,7 @@
 # I am changin this adgain........
 
 # import libraries and modules
+import panda3d
 import pygame as pg
 from pygame.sprite import Sprite
 import random
